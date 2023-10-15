@@ -11,6 +11,20 @@
                     </StackLayout>
                 </ViewCell>
             </TableSection>
+            <TableSection>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand">
+                        <Label Text="Sección B" VerticalOptions="CenterAndExpand" />
+                    </StackLayout>
+                </ViewCell>
+            </TableSection>
+            <TableSection>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand">
+                        <Label Text="Sección C" VerticalOptions="CenterAndExpand" />
+                    </StackLayout>
+                </ViewCell>
+            </TableSection>
         </TableRoot>
     </TableView>
 </ContentPage>
